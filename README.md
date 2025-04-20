@@ -1,6 +1,6 @@
 # API de Cadastro de Pessoas
 
-API REST desenvolvida com **Spring Boot** para cadastro e gerenciamento de pessoas de uma organização.
+(Santander Bootcamp fullstack) API REST desenvolvida com **Spring Boot** para cadastro e gerenciamento de pessoas de uma organização.
 
 ## 🚀 Tecnologias
 - Java 17+
@@ -16,7 +16,7 @@ API REST desenvolvida com **Spring Boot** para cadastro e gerenciamento de pesso
 ## 📂 Executando o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/api-cadastro-pessoas.git
+git https://github.com/galafis/Desenvolvendo-um-Sistema-de-Gerenciamento-de-Pessoas-em-API-REST-com-Spring-Boot
 cd api-cadastro-pessoas
 ./mvnw spring-boot:run
 ```
@@ -34,4 +34,4 @@ Acesse:
 
 ---
 
-Desenvolvido para praticar conceitos de API REST com Java + Spring Boot.
+Desenvolvido por um futuro cientista de dados, apaixonado por tecnologiaa e desafiado para praticar conceitos de API REST com Java + Spring Boot.
