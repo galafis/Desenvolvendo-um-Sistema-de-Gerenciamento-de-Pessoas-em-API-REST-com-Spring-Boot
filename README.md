@@ -4,6 +4,7 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.x-green?style=flat-square&logo=springboot)](https://spring.io/projects/spring-boot)
 [![H2 Database](https://img.shields.io/badge/H2-In--Memory%20DB-blue?style=flat-square)](https://www.h2database.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
 
 ---
 
