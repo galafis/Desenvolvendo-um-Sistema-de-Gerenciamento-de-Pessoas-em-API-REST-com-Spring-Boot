@@ -1,10 +1,10 @@
 # Sistema de Gerenciamento de Pessoas — API REST com Spring Boot
 
-[![Java](https://img.shields.io/badge/Java-17+-orange?style=flat-square&logo=java)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.x-green?style=flat-square&logo=springboot)](https://spring.io/projects/spring-boot)
-[![H2 Database](https://img.shields.io/badge/H2-In--Memory%20DB-blue?style=flat-square)](https://www.h2database.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![License-MIT](https://img.shields.io/badge/License--MIT-yellow?style=for-the-badge)
+
 
 ---
 
